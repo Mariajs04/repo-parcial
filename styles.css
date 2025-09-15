@@ -12,9 +12,8 @@ body {
 .contenedor {
   text-align: center;
   background-color: #fff;
-  padding: 30px;
   border-radius: 12px;
-  
+  margin: 30px;
 }
 
 h1 {
@@ -22,24 +21,12 @@ h1 {
   margin-bottom: 20px;
 }
 
-/*button {
-  background-color: #ff9800;
-  color: white;
+button {
+  background-color: #e144b2;
+  color: rgb(8, 0, 0);
   border: none;
-  padding: 12px 20px;
   font-size: 16px;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}*/
-
-/*button:hover {
-  background-color: #e68900;
-}*/
-
-.gatito {
-  margin-top: 20px;
-  max-width: 100%;
   border-radius: 10px;
   
 }
+
