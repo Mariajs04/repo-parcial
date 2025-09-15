@@ -11,7 +11,6 @@ function cargarGato() {
       const gato = datos[0];
       const img = document.createElement("img");
       img.src = gato.url;
-      img.alt = "Un lindo gato";
       img.style.maxWidth = "300px";
       
       contenedorImagen.innerHTML = ""; 
